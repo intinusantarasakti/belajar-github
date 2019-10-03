@@ -3,9 +3,12 @@ Belajar github
 2. 1 minggu harus bisa mencoba mengimplementasikan github
 3. 1 minggu mencoba membuat project bersama team
 4. 1 minggu menghasilkan sebuah project
-5. Batu bulan belajar github
-6. Jadi programer asik
-7. Menyenangkan
-8. Belajr CI
-9. Belajar Laravel
-10. Belajar Java
+5. satu bulan belajar github
+6. Agular
+7. C++
+8. Batu bulan belajar github
+9. Jadi programer asik
+10. Menyenangkan
+11. Belajr CI
+12. Belajar Laravel
+13. Belajar Java
