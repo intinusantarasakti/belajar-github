@@ -1,0 +1,5 @@
+Belajar github
+1. 1 minggu harus bisa memahami github
+2. 1 minggu harus bisa mencoba mengimplementasikan github
+3. 1 minggu mencoba membuat project bersama team
+4. 1 minggu menghasilkan sebuah project
